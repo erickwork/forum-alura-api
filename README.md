@@ -1,1 +1,1 @@
-Projeto de API para o forum da alura, primeiro projeto springboot
+Projeto de API para o forum da alura, primeiro projeto springboot java
